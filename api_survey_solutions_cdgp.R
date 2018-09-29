@@ -67,6 +67,8 @@ ggplot(sumbylga, aes(x =lga_f, y = n)) + geom_bar(stat = 'identity', position = 
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 
+## I am adding a line just to test this
+
 
 
 
